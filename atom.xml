@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://pchung.github.io/atom.xml" rel="self"/>
-  <link href="http://pchung.github.io/"/>
-  <updated>2013-11-22T15:14:50-08:00</updated>
-  <id>http://pchung.github.io/</id>
+  <link href="http://chung.io/atom.xml" rel="self"/>
+  <link href="http://chung.io/"/>
+  <updated>2013-11-23T20:43:04-08:00</updated>
+  <id>http://chung.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Patrick Chung]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
